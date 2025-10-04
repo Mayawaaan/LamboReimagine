@@ -1,9 +1,3 @@
-Certainly. The README has been updated to include **Framer Motion** for animations and **Lenis** for smooth scrolling.
-
-Here is the revised and complete `README.md` file for your project.
-
------
-
 # LamboReimagine
 
 A stunning 3D visualizer and configurator for a reimagined Lamborghini, built with a modern, high-performance tech stack including React, Three.js, Framer Motion, and more.
