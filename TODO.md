@@ -1,0 +1,10 @@
+- Import React, useEffect, useRef, gsap, ScrollTrigger, Lenis
+- Define LamboVideo component with useRef for canvas
+- In useEffect: Initialize Lenis and connect to ScrollTrigger
+- Set up canvas size with setCanvasSize function
+- Preload 180 images from ./lambo/lmabo_XXXX.jpg
+- Define render function for canvas
+- Set up ScrollTrigger on '.hero' with pin, scrub, onUpdate for frame and animations
+- Handle window resize
+- Cleanup Lenis and ScrollTrigger on unmount
+- Return JSX with canvas element
