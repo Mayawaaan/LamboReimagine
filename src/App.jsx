@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import SiteLoader from './sections/SiteLoader';
 import LandingPage from './sections/LandingPage';
 import LamboScroll from './sections/LamboScroll';
-import LamboCrousel from './sections/LamboCrousel.Jsx';
+import LamboCrousel from './sections/LamboCrousel.jsx';
 import Footer from './sections/Footer';
 const App = () => {
   // A single state to manage the loading status of the entire application.
